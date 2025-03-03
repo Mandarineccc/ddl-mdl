@@ -42,9 +42,11 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
-
-
+[скриншот 1](https://github.com/Mandarineccc/ddl-mdl/blob/main/1.png)
+[скриншот 2](https://github.com/Mandarineccc/ddl-mdl/blob/main/2.png)
+[скриншот 3](https://github.com/Mandarineccc/ddl-mdl/blob/main/3.png)
+[скриншот 4](https://github.com/Mandarineccc/ddl-mdl/blob/main/4.png)
+[скриншот 5](https://github.com/Mandarineccc/ddl-mdl/blob/main/5.png)
 ---
 
 ### Задание 2
